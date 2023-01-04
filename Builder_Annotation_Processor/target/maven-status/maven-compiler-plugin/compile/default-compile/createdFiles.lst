@@ -1,0 +1,3 @@
+processors\BuildProcessor.class
+annotations\BuilderField.class
+META-INF\services\javax.annotation.processing.AbstractProcessor
